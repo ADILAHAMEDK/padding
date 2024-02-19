@@ -1,0 +1,25 @@
+.text-container {
+    background-color: aqua;
+    border: 10px solid black;
+    padding: 20px;
+    margin-right: 1320px;
+}
+
+.yellow-container {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    margin-left: 351px;
+}
+
+.red-container {
+    height:300px ;
+    width: 300px ;
+    background-color: brown;
+    border: 10px solid black;
+    margin-left: 32px;
+}
